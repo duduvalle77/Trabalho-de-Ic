@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1540330150 source:d:\trabalhos\ic\trabalhoic\main.cpp
+	<iostream>
+	"Solucao.h"
+	"Grafo.h"
+	<stdlib.h>
+	<vector>
+	<time.h>
+	<fstream>
+	<string.h>
+	"Input.h"
+
+1539894498 source:d:\trabalhos\ic\trabalhoic\src\grupo.cpp
+	"Grupo.h"
+	<vector>
+
+1539925405 d:\trabalhos\ic\trabalhoic\include\grupo.h
+	<vector>
+
+1539892326 source:d:\trabalhos\ic\trabalhoic\src\grafo.cpp
+	"Grafo.h"
+
+1539892318 d:\trabalhos\ic\trabalhoic\include\grafo.h
+
+1540329613 source:d:\trabalhos\ic\trabalhoic\src\solucao.cpp
+	"Solucao.h"
+	"Grafo.h"
+	<stdlib.h>
+	<vector>
+	<time.h>
+	<iostream>
+
+1540322959 d:\trabalhos\ic\trabalhoic\include\solucao.h
+	"Grafo.h"
+	<vector>
+
+1540327274 source:d:\trabalhos\ic\trabalhoic\src\input.cpp
+	"Input.h"
+	<fstream>
+	"Solucao.h"
+	"Grafo.h"
+	<stdlib.h>
+	<vector>
+	<time.h>
+	<iostream>
+
+1540330247 d:\trabalhos\ic\trabalhoic\include\input.h
+	<fstream>
+	<string.h>
+	"Solucao.h"
+	"Grafo.h"
+	<stdlib.h>
+	<vector>
+	<time.h>
+
