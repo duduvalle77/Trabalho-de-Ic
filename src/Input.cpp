@@ -132,6 +132,8 @@ void Input::buscaLocal()
     {
         s->Best();
     }
+    else
+        s->grupos = s->best;
     //cout << " deu (Busca Local) " << endl;
 }
 

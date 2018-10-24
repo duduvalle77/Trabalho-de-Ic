@@ -23,17 +23,6 @@ Solucao::Solucao(int nn, int ng, float h, float l)
 
 Solucao::~Solucao()
 {
-    for(int i = 0; i < numeroG; i++)
-    {
-        //grupos[i].~vector();
-    }
-    //grupos.~vector();
-    for(int i = 0; i < numeroG; i++)
-    {
-        //best[i].~vector();
-    }
-    //best.~vector();
-    //g->~Grafo();
     delete g;
 }
 
