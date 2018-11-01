@@ -5,7 +5,7 @@
 #include <vector>
 #include <time.h>
 #include <fstream>
-#include <string.h>
+#include <string>
 #include "Input.h"
 
 using namespace std;
@@ -33,15 +33,15 @@ void Iimprime(vector<vector<int> >gr)
     cout << "}" << endl;
 }
 
-int main()
+int main(int argc, char **argv)
 {
     vector<vector<int> >bestOfbest;
     time_t timeStart;
     float x, maior = 0, media=0;
     double tim = 0;
     srand (time(NULL));
-    int type = 1;
-    string path = "instancias-Grupos/TipoA/DCC136-82_02.txt";
+    int type = atoi(argv[2]);
+    string path = argv[1];
     Input i;
 
     i.readInstance(path,type);

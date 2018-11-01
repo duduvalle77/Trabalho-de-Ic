@@ -53,3 +53,39 @@
 	<vector>
 	<time.h>
 
+1539892326 source:d:\trabalhos\ic\trabalho-de-ic\src\grafo.cpp
+	"Grafo.h"
+
+1540334726 d:\trabalhos\ic\trabalho-de-ic\include\grafo.h
+
+1540334892 source:d:\trabalhos\ic\trabalho-de-ic\src\input.cpp
+	"Input.h"
+	<fstream>
+	"Solucao.h"
+	"Grafo.h"
+	<stdlib.h>
+	<vector>
+	<time.h>
+	<iostream>
+
+1540334710 d:\trabalhos\ic\trabalho-de-ic\include\input.h
+	<fstream>
+	<string.h>
+	"Solucao.h"
+	"Grafo.h"
+	<stdlib.h>
+	<vector>
+	<time.h>
+
+1540334696 d:\trabalhos\ic\trabalho-de-ic\include\solucao.h
+	"Grafo.h"
+	<vector>
+
+1540342541 source:d:\trabalhos\ic\trabalho-de-ic\src\solucao.cpp
+	"Solucao.h"
+	"Grafo.h"
+	<stdlib.h>
+	<vector>
+	<time.h>
+	<iostream>
+
